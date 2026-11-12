@@ -1,8 +1,12 @@
-# Library Management Application [![starline](https://starlines.qoo.monster/assets/brownfox2k6/LibraryManagementApplication)](https://github.com/brownfox2k6/LibraryManagementApplication)
+# Library Management Application
 
 - **Course:** Object-oriented programming
 - **Course Code:** 2425H_INT2204_60
 - **Semester:** Summer 2024–2025
+
+> [!IMPORTANT]
+> Yay, we got marked 10 out of 10 for this project. Perfect!
+> 
 
 ## Contributors
 - **24021400 Nguyễn Trọng Đại** – [brownfox2k6](https://github.com/brownfox2k6)
